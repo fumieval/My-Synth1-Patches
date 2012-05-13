@@ -1,5 +1,5 @@
 PD Synth Strings
-color=default
+color=red
 ver=112
 0,0
 45,66
@@ -34,7 +34,7 @@ ver=112
 22,64
 23,0
 24,1
-25,84
+25,60
 26,64
 27,107
 28,64
